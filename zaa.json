@@ -3,9 +3,9 @@
     {
       "status_app": "0",
       "link_redirect": "https://",
-      "admob_interid": "",
-      "admob_nativeid": "",
-      "admob_openid": "",
+      "admob_interid": "ca-app-pub-4395061494146843/1844612281",
+      "admob_nativeid": "ca-app-pub-4395061494146843/6905367278",
+      "admob_openid": "ca-app-pub-4395061494146843/5592285603",
       "admob_rewardid": "", 
       "interval": 1,
       "coin_reward": 0
